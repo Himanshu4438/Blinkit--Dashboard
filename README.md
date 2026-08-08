@@ -40,7 +40,7 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 
 ## 🖼️ Sample Visuals
 
-🔗 ![Dashboard](https://github.com/KaurManpreet1237/Blinkit-Analytics-Dashboard/blob/b5c2eb9a0c7126c53bf3d82eb94207c483992f46/blinkit-dashboard.png) 
+🔗 ![Dashboard](https://github.com/Himanshu4438/Blinkit--Dashboard) 
 
 ---
 
@@ -48,7 +48,7 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 
 1. Clone the repository:
    ```bash
-   https://github.com/KaurManpreet1237/Blinkit-Analytics-Dashboard.git
+  https://github.com/Himanshu4438/Blinkit--Dashboard
    ```
 2. Open the `.ipynb` file in **Jupyter Lab** or **VS Code**.
 3. Open the `.pbix` file using **Power BI Desktop**.
@@ -59,8 +59,8 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 
 Feel free to connect with me for questions or collaborations.
 
-**Manpreet Kaur**   
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/manpreet-kaur-52b805329/)  
+**Himanshu Pandey**   
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/himanshupandey2721/)  
 
 
 
