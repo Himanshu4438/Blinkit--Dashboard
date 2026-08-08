@@ -36,20 +36,18 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 - Dynamic filtering in Power BI for multi-dimensional analysis
 
 ---
-
-
 ## 🖼️ Sample Visuals
 
-🔗 ![Dashboard](https://github.com/Himanshu4438/Blinkit--Dashboard) 
+![Blinkit Dashboard](blinkit-dashboard.png)
 
 ---
 
-## 📌 How to Run
+## 🛠️ How to Run
 
 1. Clone the repository:
    ```bash
-  https://github.com/Himanshu4438/Blinkit--Dashboard
-   ```
+   [https://github.com/Himanshu4438/Blinkit--Dashboard](https://github.com/Himanshu4438/Blinkit--Dashboard)
+
 2. Open the `.ipynb` file in **Jupyter Lab** or **VS Code**.
 3. Open the `.pbix` file using **Power BI Desktop**.
 
@@ -60,7 +58,8 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 Feel free to connect with me for questions or collaborations.
 
 **Himanshu Pandey**   
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/himanshupandey2721/)  
+ - **LinkedIn:** [Himanshu Pandey](https://www.linkedin.com/in/himanshupandey2721/)
+-
 
 
 
